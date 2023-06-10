@@ -27,11 +27,11 @@ export function PriceType({ parcelas }: Props) {
         showsVerticalScrollIndicator={false}
         renderItem={({ item }) => (
           <>
-            <Text style={{ fontSize: 16 }}>Parcela n: {item.numero}</Text>
+            <Text style={{ fontSize: 16 }}>Parcela nº: {item.numero}</Text>
             <Text style={{ fontSize: 16 }}>
               Amortização: R$ {item.valorAmortizacao}
             </Text>
-            <Text style={{ fontSize: 16 }}>Juros:R$ {item.valorJuros}</Text>
+            <Text style={{ fontSize: 16 }}>Juros: R$ {item.valorJuros}</Text>
             <Text style={{ fontSize: 16 }}>
               Prestação: R$ {item.valorPrestacao}
             </Text>

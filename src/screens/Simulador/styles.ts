@@ -52,6 +52,7 @@ export const SimulatorTitle = styled.Text`
   color: #fff;
   font-size: 20px;
   padding-bottom: 16px;
+  margin-top: 16px;
 `;
 
 export const InputTextCurrency = styled(MaskedTextInput)`
@@ -65,8 +66,6 @@ export const InputTextCurrency = styled(MaskedTextInput)`
 
   padding: 0 23px;
   margin-bottom: 30px;
-
- 
 `;
 
 export const InputText = styled(TextInput).attrs(({ theme }) => ({

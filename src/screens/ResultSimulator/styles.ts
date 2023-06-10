@@ -62,6 +62,7 @@ export const SimulatorAccordionType = styled.Text`
 export const ModalContainer = styled.View`
   flex: 1;
   align-items: center;
+  justify-content: center;
 `;
 
 export const ModalView = styled.View`

@@ -1,16 +1,13 @@
 import { useEffect, useState } from "react";
 import { useNavigation, useRoute } from "@react-navigation/native";
-import { AccordionList } from "react-native-accordion-list-view";
 
 import {
   Text,
   Keyboard,
   TouchableWithoutFeedback,
   Linking,
-  Alert,
   StyleSheet,
   Modal,
-  Pressable,
 } from "react-native";
 
 import iconeLogo from "../../assets/icone-logo.png";
@@ -28,7 +25,6 @@ import {
   ModalTextButton,
   ModalTitle,
   ModalView,
-  SimulatorAccordionType,
   SimulatorContainer,
   SimulatorTitle,
   TitleHeader,
@@ -175,20 +171,6 @@ export function ResultSimulator() {
             <ModalButton onPress={() => setModalSACVisible(true)}>
               <ModalTextButton>SAC</ModalTextButton>
             </ModalButton>
-
-            {/* <AccordionList
-              data={result.resultadoSimulacao}
-              customTitle={(item) => (
-                <SimulatorAccordionType>{item.tipo}</SimulatorAccordionType>
-              )}
-              customBody={(item) => (
-                <PriceType price={item.tipo} parcelas={item.parcelas} />
-              )}
-              pagingEnabled={true}
-              removeClippedSubviews={true}
-              animationDuration={400}
-              expandMultiple={false}
-            /> */}
           </SimulatorContainer>
 
           <View

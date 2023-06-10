@@ -1,6 +1,6 @@
-import { useCallback, useEffect, useState } from "react";
-import { useFocusEffect, useNavigation } from "@react-navigation/native";
-import { Alert, Keyboard, TouchableWithoutFeedback, View } from "react-native";
+import { useState } from "react";
+import { useNavigation } from "@react-navigation/native";
+import { Alert, Keyboard, TouchableWithoutFeedback } from "react-native";
 
 import { api } from "../../services/api";
 
@@ -20,7 +20,6 @@ import {
   SimulatorContainer,
   SimulatorTitle,
   TitleHeader,
-  InputTextCurrency,
   InputText,
 } from "./styles";
 import { useAuth } from "../../hooks/auth";
@@ -81,6 +80,7 @@ export function Simulador() {
             melhor se encaixa para você.
           </InfoTitle>
         </InfoContainer>
+
         <SimulatorContainer>
           <SimulatorTitle>Valor desejado</SimulatorTitle>
 
