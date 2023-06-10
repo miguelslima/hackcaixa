@@ -15,7 +15,7 @@
 ## :bookmark: Sobre
 
 O <strong>Simulador Caixa</strong> é uma aplicação Mobile desenvolvida como 1º desafio Hackthon Caixa.<br><br>
-O aplicativo tem a funcionalidade de <strong>Informar sobre crédito</strong>, <strong>Orientar</strong> <strong>Simular empréstimo aos clientes Caixa</strong>
+O aplicativo tem a funcionalidade de <strong>informar sobre crédito</strong>, <strong>orientar</strong> e <strong>simular empréstimo aos clientes Caixa</strong>
 <br><br>
 
 <h3>Aqui você encontra as telas do sistema: </h3>
