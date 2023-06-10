@@ -23,24 +23,24 @@ O aplicativo tem a funcionalidade de <strong>Informar sobre crédito</strong>, <
 <br>
 
 <h3 align="center">
-    <img alt="SignIn" title="#logo" width="400px" src="/src/assets/images/splash.png">
-    <img alt="SignUp" title="#logo" width="400px" src="/src/assets/images/inicial.png">
+    <img alt="Splash" title="#logo" width="400px" src="/src/assets/images/splash.png">
+    <img alt="Tela Incial" title="#logo" width="400px" src="/src/assets/images/inicial.png">
       <br><br>
-    <img alt="Home" title="#logo" width="400px" src="/src/assets/images/inicialpreenchida.png">
-    <img alt="Search" title="#logo" width="400px" src="/src/assets/images/info.png">
+    <img alt="Tela inicial preenchida" title="#logo" width="400px" src="/src/assets/images/inicialpreenchida.png">
+    <img alt="Informações" title="#logo" width="400px" src="/src/assets/images/info.png">
       <br><br>
-    <img alt="Profile" title="#logo" width="400px" src="/src/assets/images/info-1.png">
-    <img alt="Detail Enterprise" title="#logo" width="400px" src="/src/assets/images/info-2.png">
+    <img alt="Informações 01" title="#logo" width="400px" src="/src/assets/images/info-1.png">
+    <img alt="Informações 02" title="#logo" width="400px" src="/src/assets/images/info-2.png">
       <br><br>
       <br><br>
-    <img alt="Profile" title="#logo" width="400px" src="/src/assets/images/simulador.png">
-    <img alt="Detail Enterprise" title="#logo" width="400px" src="/src/assets/images/simulador-1.png">
+    <img alt="Simulador" title="#logo" width="400px" src="/src/assets/images/simulador.png">
+    <img alt="Simulador Preenchida" title="#logo" width="400px" src="/src/assets/images/simulador-1.png">
       <br><br>
-    <img alt="Detail Enterprise" title="#logo" width="400px" src="/src/assets/images/simulador-2.png">
-    <img alt="Detail Enterprise" title="#logo" width="400px" src="/src/assets/images/resultado.png">
+    <img alt="Simulador carregando" title="#logo" width="400px" src="/src/assets/images/simulador-2.png">
+    <img alt="Resultado" title="#logo" width="400px" src="/src/assets/images/resultado.png">
       <br><br>
-    <img alt="Detail Enterprise" title="#logo" width="400px" src="/src/assets/images/sac.png">
-    <img alt="Detail Enterprise" title="#logo" width="400px" src="/src/assets/images/price.png">
+    <img alt="Resultado SAC" title="#logo" width="400px" src="/src/assets/images/sac.png">
+    <img alt="Resultado PRICE" title="#logo" width="400px" src="/src/assets/images/price.png">
       <br><br>
 </h3>
 
@@ -51,7 +51,6 @@ O aplicativo tem a funcionalidade de <strong>Informar sobre crédito</strong>, <
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [React Native](https://reactnative.dev/) <br>
-  Dependências utilizadas:
 
   - @expo-google-fonts/roboto
   - @react-native-async-storage/async-storage
