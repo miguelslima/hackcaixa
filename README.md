@@ -23,24 +23,24 @@ O aplicativo tem a funcionalidade de <strong>Informar sobre crédito</strong>, <
 <br>
 
 <h3 align="center">
-    <img alt="SignIn" title="#logo" width="400px" src="src/assets/image/splash.png">
-    <img alt="SignUp" title="#logo" width="400px" src="src/assets/image/inicial.png">
+    <img alt="SignIn" title="#logo" width="400px" src="/src/assets/image/splash.png">
+    <img alt="SignUp" title="#logo" width="400px" src="/src/assets/image/inicial.png">
       <br><br>
-    <img alt="Home" title="#logo" width="400px" src="src/assets/image/inicialpreenchida.png">
-    <img alt="Search" title="#logo" width="400px" src="src/assets/image/info.png">
+    <img alt="Home" title="#logo" width="400px" src="/src/assets/image/inicialpreenchida.png">
+    <img alt="Search" title="#logo" width="400px" src="/src/assets/image/info.png">
       <br><br>
-    <img alt="Profile" title="#logo" width="400px" src="src/assets/image/info-1.png">
-    <img alt="Detail Enterprise" title="#logo" width="400px" src="src/assets/image/info-2.png">
+    <img alt="Profile" title="#logo" width="400px" src="/src/assets/image/info-1.png">
+    <img alt="Detail Enterprise" title="#logo" width="400px" src="/src/assets/image/info-2.png">
       <br><br>
       <br><br>
-    <img alt="Profile" title="#logo" width="400px" src="src/assets/image/simulador.png">
-    <img alt="Detail Enterprise" title="#logo" width="400px" src="src/assets/image/simulador-1.png">
+    <img alt="Profile" title="#logo" width="400px" src="/src/assets/image/simulador.png">
+    <img alt="Detail Enterprise" title="#logo" width="400px" src="/src/assets/image/simulador-1.png">
       <br><br>
-    <img alt="Detail Enterprise" title="#logo" width="400px" src="src/assets/image/simulador-2.png">
-    <img alt="Detail Enterprise" title="#logo" width="400px" src="src/assets/image/resultado.png">
+    <img alt="Detail Enterprise" title="#logo" width="400px" src="/src/assets/image/simulador-2.png">
+    <img alt="Detail Enterprise" title="#logo" width="400px" src="/src/assets/image/resultado.png">
       <br><br>
-    <img alt="Detail Enterprise" title="#logo" width="400px" src="src/assets/image/sac.png">
-    <img alt="Detail Enterprise" title="#logo" width="400px" src="src/assets/image/price.png">
+    <img alt="Detail Enterprise" title="#logo" width="400px" src="/src/assets/image/sac.png">
+    <img alt="Detail Enterprise" title="#logo" width="400px" src="/src/assets/image/price.png">
       <br><br>
 </h3>
 
